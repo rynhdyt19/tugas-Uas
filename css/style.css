@@ -1,0 +1,9 @@
+.navbar .container {
+  display: flex;
+  justify-content: space-between;
+}
+
+.ikon-cari {
+  border-radius: 0 10px 10px 0;
+  margin-left: -10px;
+}
